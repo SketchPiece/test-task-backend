@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Learn how to make a perfect scrambled egg"
+    },
+    {
+      "id": 2,
+      "text": "Learn how to swim"
+    },
+    {
+      "id": 3,
+      "text": "Learn how to check the oil level in a car without using actually starting the car"
+    },
+    {
+      "id": 4,
+      "text": "Learn how to properly jump start a car"
+    },
+    {
+      "id": 5,
+      "text": "Learn how to use a map and compass"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@email.com",
+      "password": "$2a$10$111NIyp95LN7lg58X9WEu.FCrIIzpsvCJGCAofgtSumemgT/WqkGe",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "test-task-backend",
+  "version": "1.0.0",
+  "description": "Backend for testing task",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server-auth data.json -r routes.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  }
+}
